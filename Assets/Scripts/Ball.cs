@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+// this is the class that implements the ball game object
 public class Ball : MonoBehaviour
 {
     private Rigidbody m_Rigidbody;
